@@ -1,3 +1,4 @@
 Name: Victor
 Age: 26
 Favorite Color: Blue
+Height: 178
